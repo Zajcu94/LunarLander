@@ -1,0 +1,12 @@
+Punkty Nick
+
+5428 Nick
+739 Bob
+534 Nowy gracz
+529 Test1
+33 John
+29 Test
+10 James
+1 przedostatni
+0 zawsze ostatni
+
